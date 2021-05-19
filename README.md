@@ -2,3 +2,4 @@
 
 
 furniture-store
+you must write in terminal npm install
